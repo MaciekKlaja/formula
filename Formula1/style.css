@@ -1,0 +1,60 @@
+body
+{
+	background-image: url("grafika/tło.jpg");
+	color: white;
+	font-family: 'Arial';
+	text-align: center;
+	font-size: 25px;
+}
+
+}
+#kontener
+{
+	height: 100%;
+	width: 100%;
+}
+
+#formula
+{
+	width: 100%;
+	height: 100%;
+}
+
+#pasekl
+{
+	height: 100%;
+	width: 15%;
+	float: left;
+	margin-top: 200px;
+}	
+
+
+.link
+{
+	height: 50px;
+	width: 15%;
+}
+
+.nag
+{
+	color: white;
+	text-decoration: none;
+}
+
+#film
+{
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	height: 100%;
+	width: 70%;
+	margin-top: 200px;
+}
+
+#pasekr
+{
+	height: 100%;
+	width: 15%;
+	float: right;
+	margin-top: 200px;
+}
